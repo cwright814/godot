@@ -1,3 +1,12 @@
+# Fork Changes
+
+Merges PR [godotengine#94883](https://github.com/godotengine/godot/pull/94883) which was scheduled for `4.5.x` into `4.4.1`. This patch normalizes the available casing approaches across Node, Scene, and Script names, matching the launcher options for directory casing. I specifically made this fork as I wanted a mixture of kebab-case and PascalCase in my project, but felt the `4.5.x` beta was not yet stable enough for my needs.
+
+**Original README starts below. 👇**
+
+
+--
+
 # Godot Engine
 
 <p align="center">
